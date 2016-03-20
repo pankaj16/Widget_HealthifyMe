@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Healthify Me</string>
+
+    <string name="healthifyMe_title">HealthifyMe</string>
+    <string name="description">Description</string>
+    <string name="open_time">Opens at</string>
+    <string name="close_time">Closes on</string>
+    <string name="time_interval">(%1$s - %2$s)</string>
+    <string name="open_link"><a href="%1$s"><u>Open link</u></a></string>
+</resources>
